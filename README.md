@@ -19,8 +19,6 @@ I'm a 21 year old Full Stack Engineer based in Melbourne, studying a masters deg
 
 ## Tech Stack
 
-<div align="center">
-
 ### Front-End Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,10 +51,8 @@ I'm a 21 year old Full Stack Engineer based in Melbourne, studying a masters deg
 
 ## Connect with me
 
-<div align="center">
-
 **Reach out via:**
-- **Email:** [nicolai@skogstad.com](mailto:nicolai@skogstad.com)
-- **Phone:** [(+61) 0400 412 172](tel:+61400412172)
-- **LinkedIn:** [Nicolai Skogstad](https://www.linkedin.com/in/nicolai-skogstad-8333a221b/)
-- **Portfolio:** Coming soon with detailed project showcases!
+**Email:** [nicolai@skogstad.com](mailto:nicolai@skogstad.com)
+**Phone:** [(+61) 0400 412 172](tel:+61400412172)
+**LinkedIn:** [Nicolai Skogstad](https://www.linkedin.com/in/nicolai-skogstad-8333a221b/)
+**Portfolio:** Coming soon with detailed project showcases!
