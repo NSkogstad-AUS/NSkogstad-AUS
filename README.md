@@ -51,20 +51,6 @@ I'm a 21 year old Full Stack Engineer based in Melbourne, studying a masters deg
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  
-  ![Nicolai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NSkogstad-AUS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=ffffff&icon_color=00D4AA)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NSkogstad-AUS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=ffffff)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NSkogstad-AUS&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA)
-
-</div>
-
----
-
 ## Connect with me
 
 <div align="center">
